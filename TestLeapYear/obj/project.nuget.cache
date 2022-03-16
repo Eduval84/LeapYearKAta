@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bq8yjw65gqQ8WQUMpPzikCX9xp0YPxfXe8WLBOiXrs2yBYLHkEaznWxTsS7xA6OJxdwGx2bxRFwDhGSntp/G2Q==",
+  "dgSpecHash": "TnDu/FC6cpdLNOoqljWafGAi0WyfLDCxTr53DJCV4MtSpr8D2+JYyDq9CkBBM4QURRGHBbY+nveoouq3CrO5gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\TestLeapYear\\TestLeapYear.csproj",
+  "projectFilePath": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\TestLeapYear\\TestLeapYear.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evalderrama\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

@@ -5923,11 +5923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\TestLeapYear\\TestLeapYear.csproj",
+      "projectUniqueName": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\TestLeapYear\\TestLeapYear.csproj",
       "projectName": "TestLeapYear",
-      "projectPath": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\TestLeapYear\\TestLeapYear.csproj",
+      "projectPath": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\TestLeapYear\\TestLeapYear.csproj",
       "packagesPath": "C:\\Users\\evalderrama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\TestLeapYear\\obj\\",
+      "outputPath": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\TestLeapYear\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
