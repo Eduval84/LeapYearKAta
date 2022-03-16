@@ -21,5 +21,10 @@ namespace LeapYearKata
         {
             return true;
         }
+
+        public static bool CheckIfDateIsNotDivisibleBy4(int input)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

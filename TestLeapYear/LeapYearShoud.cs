@@ -22,5 +22,14 @@ namespace TestLeapYear
             Assert.Equal(result,true);
 
         }
+
+        [Fact]
+        public void Year_1997_Its_Not_a_leap_year_because_it_is_not_divisible_by_4()
+        {
+            var input = 1997;
+            bool result = LeapYear.CheckIfDateIsNotDivisibleBy4(input);
+            Assert.Equal(result, true);
+
+        }
     }
 }
