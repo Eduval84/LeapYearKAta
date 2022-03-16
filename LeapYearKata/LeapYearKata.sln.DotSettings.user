@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=070825bb_002D8581_002D42c4_002Dafc7_002Dbb55f4ad80ee/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Its_a_leap_year_it_is_divisible_by_4 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6103E990-5B9C-4812-B6EC-A8253206BD5E::net5.0::TestLeapYear.LeapYearShoud.Its_a_leap_year_it_is_divisible_by_4&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d6d39660_002D5aea_002D4b85_002Da4eb_002D50cbef3ea96d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Its_a_leap_year_it_is_divisible_by_4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6103E990-5B9C-4812-B6EC-A8253206BD5E::net5.0::TestLeapYear.LeapYearShoud.Its_a_leap_year_it_is_divisible_by_4&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

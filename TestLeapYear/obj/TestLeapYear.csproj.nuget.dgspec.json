@@ -4,6 +4,21 @@
     "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\TestLeapYear\\TestLeapYear.csproj": {}
   },
   "projects": {
+    "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\LeapYearKata\\LeapYearKata.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\LeapYearKata\\LeapYearKata.csproj",
+        "projectName": "LeapYearKata",
+        "projectPath": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\LeapYearKata\\LeapYearKata.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
     "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\TestLeapYear\\TestLeapYear.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +46,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\LeapYearKata\\LeapYearKata.csproj": {
+                "projectPath": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Leap Year Kata\\LeapYearKata\\LeapYearKata.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
