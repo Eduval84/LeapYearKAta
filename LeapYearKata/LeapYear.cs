@@ -12,17 +12,12 @@ namespace LeapYearKata
         {
         }
 
-        public static bool CheckIfDateIsDivisibleBy4(object input)
+        public static bool CheckIfDateIsDivisibleBy4(int input)
         {
-            return true;
+            return (input % 4 == 0);
         }
 
         public static bool CheckIfDateIsDivisibleBy100(int input)
-        {
-            return true;
-        }
-
-        public static bool CheckIfDateIsNotDivisibleBy4(int input)
         {
             return true;
         }
