@@ -16,10 +16,19 @@ namespace TestLeapYear
         }
 
         [Fact]
-        public void Year_1600_Its_a_leap_year_because_is_divisible_by_100()
+        public void Year_1600_Its_a_leap_year_because_is_divisible_by_400()
         {
             var input = 1600;
             bool result = LeapYear.CheckIfDateIsDivisibleBy100(input);
+            Assert.Equal(result, true);
+
+        }
+
+        [Fact]
+        public void Year_1500_Its_Not_a_leap_year_because_is_divisible_by_100_but_not_divisible_by_400()
+        {
+            var input = 1600;
+            bool result = LeapYear.CheckIfDateIsDivisibleBy100ButNotBy400(input);
             Assert.Equal(result, true);
 
         }
