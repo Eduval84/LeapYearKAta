@@ -1,4 +1,3 @@
-using System;
 using LeapYearKata;
 using Xunit;
 
