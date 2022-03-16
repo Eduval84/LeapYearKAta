@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,12 +21,19 @@ namespace LeapYearKata
 
         public static bool CheckIfDateIsDivisibleBy100(int input)
         {
-            return true;
+            return (input % 100 == 0);
         }
 
         public static bool CheckIfDateIsDivisibleBy100ButNotBy400(int input)
         {
+            if (CheckIfDateIsDivisibleBy100(input))
+                return !CheckIfDateIsDivisibleBy400(input);
             return true;
+        }
+
+        private static bool CheckIfDateIsDivisibleBy400(int input)
+        {
+            return (input % 400 == 0);
         }
     }
 }
