@@ -16,5 +16,10 @@ namespace LeapYearKata
         {
             return true;
         }
+
+        public static bool CheckIfDateIsDivisibleBy100(int input)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
