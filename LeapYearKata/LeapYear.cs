@@ -14,7 +14,7 @@ namespace LeapYearKata
 
         public static bool CheckDate(object input)
         {
-            throw new NotImplementedException();
+            return true;
         }
     }
 }
