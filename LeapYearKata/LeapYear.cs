@@ -12,7 +12,7 @@ namespace LeapYearKata
         {
         }
 
-        public static bool CheckDate(object input)
+        public static bool CheckIfDateIsALeapYear(object input)
         {
             return true;
         }
