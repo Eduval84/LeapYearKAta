@@ -10,8 +10,16 @@ namespace LeapYearKata
 {
     public class LeapYear
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+        }
+
+        public static bool checkIfYearIsLeap(int input)
+        {
+            if (CheckIfDateIsDivisibleBy400(input))
+                return true;
+
+            return CheckIfDateIsDivisibleBy4(input) && !CheckIfDateIsDivisibleBy100(input);
         }
 
         public static bool CheckIfDateIsDivisibleBy4(int input)
@@ -24,25 +32,9 @@ namespace LeapYearKata
             return (input % 100 == 0);
         }
 
-        public static bool CheckIfDateIsDivisibleBy100ButNotBy400(int input)
-        {
-            if (CheckIfDateIsDivisibleBy100(input))
-                return !CheckIfDateIsDivisibleBy400(input);
-            return true;
-        }
-
         public static bool CheckIfDateIsDivisibleBy400(int input)
         {
             return (input % 400 == 0);
-        }
-
-        public static bool CheckIfDateIsDivisibleBy4By100ButNotBy400(int input)
-        {
-            if (CheckIfDateIsDivisibleBy4(input))
-                if (CheckIfDateIsDivisibleBy100(input))
-                    if (CheckIfDateIsDivisibleBy400(input))
-                        return false;
-            return true;
         }
     }
 }

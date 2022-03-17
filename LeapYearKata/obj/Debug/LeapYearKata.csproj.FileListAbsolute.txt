@@ -1,7 +1,6 @@
 C:\Users\evalderrama\source\Cursos\Exeal\Leap Year Kata\LeapYearKata\bin\Debug\LeapYearKata.exe.config
 C:\Users\evalderrama\source\Cursos\Exeal\Leap Year Kata\LeapYearKata\bin\Debug\LeapYearKata.exe
 C:\Users\evalderrama\source\Cursos\Exeal\Leap Year Kata\LeapYearKata\bin\Debug\LeapYearKata.pdb
-C:\Users\evalderrama\source\Cursos\Exeal\Leap Year Kata\LeapYearKata\obj\Debug\LeapYearKata.csproj.AssemblyReference.cache
 C:\Users\evalderrama\source\Cursos\Exeal\Leap Year Kata\LeapYearKata\obj\Debug\LeapYearKata.csproj.CoreCompileInputs.cache
 C:\Users\evalderrama\source\Cursos\Exeal\Leap Year Kata\LeapYearKata\obj\Debug\LeapYearKata.exe
 C:\Users\evalderrama\source\Cursos\Exeal\Leap Year Kata\LeapYearKata\obj\Debug\LeapYearKata.pdb
