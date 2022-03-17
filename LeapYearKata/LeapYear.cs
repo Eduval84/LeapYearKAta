@@ -38,6 +38,10 @@ namespace LeapYearKata
 
         public static bool CheckIfDateIsDivisibleBy4By100ButNotBy400(int input)
         {
+            if (CheckIfDateIsDivisibleBy4(input))
+                if (CheckIfDateIsDivisibleBy100(input))
+                    if (CheckIfDateIsDivisibleBy400(input))
+                        return false;
             return true;
         }
     }
